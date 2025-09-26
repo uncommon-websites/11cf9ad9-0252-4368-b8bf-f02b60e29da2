@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Find your next home before anyone else"
+	subtitle="See rentals early with off-market listings."
+	imageSrc="/generated/image-a-young-professional-couple-stands-outsi.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/remax.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/coldwellbanker.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/century21.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/kw.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating

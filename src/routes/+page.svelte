@@ -32,54 +32,67 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Rodriguez",
+			position: "Software Engineer",
+			company: "CloudTech",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"I found my perfect apartment 2 weeks before it hit the market. Saved me $200/month compared to similar listings and avoided the bidding war stress completely.",
+			image: "/generated/image-a-professional-headshot-of-a-smiling-you.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Thompson",
+			position: "Marketing Manager",
+			company: "StartupLab",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Got early access to a premium downtown loft at below-market rent. The landlord was thrilled to skip the listing fees and I secured my dream place in 3 days instead of 3 months.",
+			image: "/generated/image-a-professional-headshot-of-a-friendly-ma.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Emma Larsson",
+			position: "Product Designer",
+			company: "DesignStudio",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Found a rent-stabilized unit in my target neighborhood before it was even renovated. Saved 6 weeks of searching and got first pick of the best units in the building.",
+			image: "/generated/image-a-professional-headshot-of-a-confident-w.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why early access matters"
+	subtitle="Never miss your perfect rental again"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "See listings 7 days early",
+			description: "Access off-market rentals before they hit Zillow or Apartments.com, giving you first choice of the best properties.",
+			imageSrc: "/generated/image-a-young-professional-stands-in-a-sunlit-.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Exclusive inventory network",
+			description: "Tap into our growing network of landlords and property managers who share listings with us first.",
+			imageSrc: "/generated/image-an-exclusive-apartment-building-with-dis.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Smart rental alerts",
+			description: "Get instant notifications for properties matching your criteria the moment they become available.",
+			imageSrc: "/generated/image-a-young-person-receives-a-notification-o.webp"
+		},
+		{
+			title: "Early adopter community",
+			description: "Join a network of savvy renters who share insider tips and help each other find the best deals.",
+			imageSrc: "/generated/image-a-diverse-group-of-young-professionals-e.webp"
+		},
+		{
+			title: "Move faster than competition",
+			description: "Apply and secure rentals while other platforms are still waiting for listings to go public.",
+			imageSrc: "/generated/image-a-professional-woman-mid-30s-efficiently.webp"
+		},
+		{
+			title: "Skip the rental market chaos",
+			description: "Avoid bidding wars and endless scrolling by accessing quality listings before the crowds arrive.",
+			imageSrc: "/generated/image-a-confident-young-person-walks-past-rent.webp"
 		}
 	]}
 />

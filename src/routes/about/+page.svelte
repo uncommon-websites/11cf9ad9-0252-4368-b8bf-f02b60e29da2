@@ -26,20 +26,17 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Get ahead of the market"
+	subtitle="Find rentals before they go public"
+	imageSrc="/generated/image-a-group-of-young-professionals-in-their-.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"Good rentals disappear fast. By the time they reach listing sites, they're already taken. You refresh, set alerts, and still miss out. It's frustrating, competitive, and exhausting for anyone searching for a new home.",
+		"Company was built for renters who are tired of coming in last. We give you access to off-market listings directly from agents, landlords, and property managers. These are listings you won't find on traditional platforms—because they're not public yet. Our growing network and early-access model mean you're first in line before competition even knows the listing exists.",
+		"We're on a mission to reshape the $50B rental market—starting with renters who want a smarter way to search. Our goal is to bring 1 million users into a faster, fairer, and more efficient rental experience fueled by exclusive data and network effects. Renting shouldn't feel like a race you're always losing. With Company, you're finally ahead."
 	]}
 />
 
